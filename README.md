@@ -16,7 +16,7 @@ A real-time simple chat application built with React, Firebase, zustand, and Vit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-realtime-chat-app.git
+   git clone https://github.com/hushanidini/firebase-react-chat-app.git
    cd my-realtime-chat-app
    ```
 
